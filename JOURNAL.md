@@ -6,8 +6,13 @@
   ==================================================================
 -->
 
-## 10/23/2025 - First sketch of arm  
+## 10/23/2025 1:19 AM - First sketch of arm  
 
 Kicked things off with a rough sketch of one drone arm. Kinda freestyled it at first just to get the proportions right. It’s giving low poly energy but it’s fine for now. Started defining anchor points, main circles, and a flat reference. Just wanted to see something on screen ngl. Didn’t go too deep. Mostly just sketch and vibe.![arm sketch.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--99f9c3b63da9ac1db6c1b56b4e3256095ffb778f/arm%20sketch.png)
+  
+
+## 10/23/2025 1:25 AM - Added dimensions and holes  
+
+Went full nerd and started dimensioning everything. Dialed in the hole placements to ±0.01 mm. The arm got some realistic mounting holes too. I used the "Fix" constraint like a cheat code. The goal was making one arm perfect so I can mirror it later. Honestly, this part was surprisingly fun, takes a hell lot of planning to do such a small thing :sob:![main body.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--35deb0117c12c3a0e720f48bfd6780d0f252f884/main%20body.png)
   
 
