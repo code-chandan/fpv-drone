@@ -16,3 +16,8 @@ Kicked things off with a rough sketch of one drone arm. Kinda freestyled it at f
 Went full nerd and started dimensioning everything. Dialed in the hole placements to ±0.01 mm. The arm got some realistic mounting holes too. I used the "Fix" constraint like a cheat code. The goal was making one arm perfect so I can mirror it later. Honestly, this part was surprisingly fun, takes a hell lot of planning to do such a small thing :sob:![main body.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--35deb0117c12c3a0e720f48bfd6780d0f252f884/main%20body.png)
   
 
+## 10/23/2025 1:29 AM - Mirrored full arm layout  
+
+Time to go symmetric. Mirrored that one finished arm into four. Boom X-frame instantly. Seeing it all align felt good. I tweaked a bit to keep everything smooth and centered. Even added mid-line constraints to avoid future chaos. Very chill but satisfying work session.![solid body.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dd8e8cbebad5fb5428b2e01e5eda29b88e3d6f0/solid%20body.png)
+  
+
