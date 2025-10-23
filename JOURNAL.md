@@ -26,3 +26,8 @@ Time to go symmetric. Mirrored that one finished arm into four. Boom X-frame ins
 Today was clean-up and contour day. I cut a neat circular slot in the center and shaved off weird edges. Played around with how the arms curve into the center plate. Tried to keep it modular so one break doesn’t destroy the whole thing. Saving this design now felt way more solid.![finalized arm + center.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY4NywicHVyIjoiYmxvYl9pZCJ9fQ==--c54db014ad30530477ad43c5b78689734c8a51b7/finalized%20arm%20%2B%20center.png)
   
 
+## 10/23/2025 3 PM - Arms joined to center plate  
+
+Assembled the center + arm units for the first time. Arms looked sharp. Made sure each arm was removable. Spaced things out so M3 screws could fit in nicely. I think we’re officially in the “it looks like a drone” phase. Had to fix a few weird shell merge issues too.![Arms joined to center plate.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--00c241e5a05f78c896c0f21f86a0736816f30c20/Arms%20joined%20to%20center%20plate.png)
+  
+
