@@ -31,3 +31,8 @@ Today was clean-up and contour day. I cut a neat circular slot in the center and
 Assembled the center + arm units for the first time. Arms looked sharp. Made sure each arm was removable. Spaced things out so M3 screws could fit in nicely. I think we’re officially in the “it looks like a drone” phase. Had to fix a few weird shell merge issues too.![Arms joined to center plate.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--00c241e5a05f78c896c0f21f86a0736816f30c20/Arms%20joined%20to%20center%20plate.png)
   
 
+## 10/23/2025 4 PM - Overlapping fix + cleanup  
+
+The overlapping bits between arm and mid-plate were bugging me. So I made a clean cut that fits like a socket. No glue or junky fits needed. Played with clearance values too. Hoping this makes disassembly a breeze in the field. Bonus points for modularity.![Overlapping fix + cleanup.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--db98be0b630cfcb559df3bad6cd9988fcedfde4f/Overlapping%20fix%20%2B%20cleanup.png)
+  
+
