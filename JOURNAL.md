@@ -21,3 +21,8 @@ Went full nerd and started dimensioning everything. Dialed in the hole placement
 Time to go symmetric. Mirrored that one finished arm into four. Boom X-frame instantly. Seeing it all align felt good. I tweaked a bit to keep everything smooth and centered. Even added mid-line constraints to avoid future chaos. Very chill but satisfying work session.![solid body.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--3dd8e8cbebad5fb5428b2e01e5eda29b88e3d6f0/solid%20body.png)
   
 
+## 10/23/2025 2 PM - Finalized arm + center  
+
+Today was clean-up and contour day. I cut a neat circular slot in the center and shaved off weird edges. Played around with how the arms curve into the center plate. Tried to keep it modular so one break doesn’t destroy the whole thing. Saving this design now felt way more solid.![finalized arm + center.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY4NywicHVyIjoiYmxvYl9pZCJ9fQ==--c54db014ad30530477ad43c5b78689734c8a51b7/finalized%20arm%20%2B%20center.png)
+  
+
