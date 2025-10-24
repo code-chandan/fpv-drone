@@ -36,3 +36,10 @@ Assembled the center + arm units for the first time. Arms looked sharp. Made sur
 The overlapping bits between arm and mid-plate were bugging me. So I made a clean cut that fits like a socket. No glue or junky fits needed. Played with clearance values too. Hoping this makes disassembly a breeze in the field. Bonus points for modularity.![Overlapping fix + cleanup.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--db98be0b630cfcb559df3bad6cd9988fcedfde4f/Overlapping%20fix%20%2B%20cleanup.png)
   
 
+## 10/24/2025 - Adjusted arms and motor holes  
+
+Revisited motor mount designs after checking motor specs again. Standardized everything around a 23mm M2 bolt pattern. Realized I forgot to offset the motor cable exits fixed that too. Pretty confident the frame arms are done unless someone finds a flaw.
+
+![Adjusted arms and motor holes.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8e452194b2639eb2caf4bcfb81503ef50d815d6e/Adjusted%20arms%20and%20motor%20holes.png)
+  
+
