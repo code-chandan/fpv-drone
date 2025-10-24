@@ -36,10 +36,17 @@ Assembled the center + arm units for the first time. Arms looked sharp. Made sur
 The overlapping bits between arm and mid-plate were bugging me. So I made a clean cut that fits like a socket. No glue or junky fits needed. Played with clearance values too. Hoping this makes disassembly a breeze in the field. Bonus points for modularity.![Overlapping fix + cleanup.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--db98be0b630cfcb559df3bad6cd9988fcedfde4f/Overlapping%20fix%20%2B%20cleanup.png)
   
 
-## 10/24/2025 - Adjusted arms and motor holes  
+## 10/24/2025 5:03 PM - Adjusted arms and motor holes  
 
 Revisited motor mount designs after checking motor specs again. Standardized everything around a 23mm M2 bolt pattern. Realized I forgot to offset the motor cable exits fixed that too. Pretty confident the frame arms are done unless someone finds a flaw.
 
 ![Adjusted arms and motor holes.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8e452194b2639eb2caf4bcfb81503ef50d815d6e/Adjusted%20arms%20and%20motor%20holes.png)
+  
+
+## 10/24/2025 5:05 PM - First assembly + mounts  
+
+Stacked in the standoffs to complete the sandwich design. The frame started to look like it came off a store shelf. Gave it more volume, added screw holes to lock the standoffs into the plates. No flex no wobble. Can’t wait to slap components on it once it's printed.
+
+![First assembly + mounts.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5f3974a34fc112aaa4637c25610e8b32d2fbddc4/First%20assembly%20%2B%20mounts.png)
   
 
