@@ -50,10 +50,17 @@ Stacked in the standoffs to complete the sandwich design. The frame started to l
 ![First assembly + mounts.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5f3974a34fc112aaa4637c25610e8b32d2fbddc4/First%20assembly%20%2B%20mounts.png)
   
 
-## 10/26/2025 - Final modular frame render  
+## 10/26/2025 12:26 AM - Final modular frame render  
 
 Final render. Final sanity checks. Did a full dry run of what components will go where. Sent over screenshots to friends for peer feedback. Thinking of getting it CNC’d instead of 3D printing now. Frame’s 100% ready for slicing but still waiting on project grant approval.
 
 ![frame render](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--011ceaa9859cf95e518b4719877c22a3d8fb0dce/frame%20render.png)
+  
+
+## 10/26/2025 12:38 AM - transmitter pcb  
+
+this is what I use to control the drone. it sends signals to the receiver, like throttle, yaw, pitch, and roll basically all the movement stuff, having fun in blueprint so far
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b74355579b25efe27b8cf385b1659c5bd3f7301b/image.png)
   
 
