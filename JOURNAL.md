@@ -64,8 +64,15 @@ this is what I use to control the drone. it sends signals to the receiver, like 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b74355579b25efe27b8cf385b1659c5bd3f7301b/image.png)
   
 
-## 10/26/2025 11 AM - made the receiver board  
+## 10/26/2025 11:32 AM - made the receiver board  
 
 the receiver board was super tiny, so i had to be careful with the layout. placed the antenna module first, then worked my way around it. i routed the power lines thick and clean, then squeezed the signal traces into whatever space was left. kept everything low-noise and added filtering caps close to the power input and near the data lines.![receiver pcb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5955f25ed93aa0a03996b932b42ddd0153462b8f/receiver%20pcb.png)
+  
+
+## 10/26/2025 11:34 AM - designing the fc pcb  
+
+designing the FC PCB was kinda the most intense part. this thing connects everything ESCs, receiver, gyro, USB, power , so routing got hectic fast. i started with the MPU and MCU, placed them dead center to keep the traces equal.
+
+![fc pcb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--749d472d764ba0dd80634fa280a9a9eecc8845c3/fc%20pcb.png)
   
 
