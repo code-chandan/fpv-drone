@@ -76,3 +76,8 @@ designing the FC PCB was kinda the most intense part. this thing connects everyt
 ![fc pcb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--749d472d764ba0dd80634fa280a9a9eecc8845c3/fc%20pcb.png)
   
 
+## 10/26/2025 11:48 AM - controller case design  
+
+The design of the controller case turned out to be much more challenging than anticipated.  Without becoming a brick, this section needed to balance internal space, ergonomics, and clean aesthetics.  I began by setting up the joysticks because everything else is centered around them.  The top shell was then sculpted to preserve the comfortable angles and organic grip.  Primarily functional, the lower part offered enough depth for PCB mounts, wiring, and connectors.  To align the mounting holes and make sure the top and bottom closed flush, multiple test fits were required.  I ended up chamfering the edges a little to give it that crisp, machined feel.![controller case](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--dadbf3c551375d4c4b08e963ed6335f4471d1795/controller%20case.png)
+  
+
