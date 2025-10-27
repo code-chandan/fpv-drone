@@ -2,7 +2,7 @@
 
 Aero is that one FPV drone you design in your head during boring lectures and then actually build when you finally have the time and brainpower. It’s a freestyle rig that’s super lightweight, fully custom, and made to do flips, dives, and maybe crash a few times without crying.
 
-This thing isn’t printed yet, btw. The model is locked and loaded in Fusion 360. Big shoutout to **@toby** on hc Slack for helping me pick the right motors and reviewing the design before it even existed IRL. Legend move.
+This thing isn’t printed yet, btw. The model is locked and loaded in Fusion 360. 
 
 ---
 
