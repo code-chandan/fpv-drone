@@ -45,14 +45,12 @@ It’s got that “I-built-this-in-my-room” energy but backed by a parts list 
 ## Tech Specs
 
 - Motor-to-motor distance fits 5-inch props  
-- 2207 2400KV motors (recommended by @toby)  
+- 2207 2400KV motors 
 - 4-in-1 ESC (30A) with solder tabs facing up  
-- Speedybeef405 FC
 - Power distribution through a separate PDB  
 - XT60 battery input with a 470uF cap for that ripple control  
 - GPS module slot for Return-To-Home  
 - Space for analog FPV cam + VTX  
-- GoPro mount spot up front (optional but modeled in)  
 - Foam landing pads and battery strap support
 
 ---
