@@ -59,9 +59,15 @@ Final render. Final sanity checks. Did a full dry run of what components will go
 
 ## 10/26/2025 12:38 AM - transmitter pcb  
 
-this is what I use to control the drone. it sends signals to the receiver, like throttle, yaw, pitch, and roll basically all the movement stuff, having fun in blueprint so far
+I spent today working on the transmitter board, which is the main controller for the drone. Pitch, roll, yaw, throttle, and all other significant signals sent to the receiver are all controlled by it; in other words, it controls every facet of flight control.
 
+It was made to look like a handheld controller, which makes it comfortable and simple to use. I also added a custom silkscreen with my tag just a small signature to show that I built it.
+
+I spent some time fine-tuning the schematic before starting layout to ensure that every connection, switch, and potentiometer mapped to the control logic. Having a clean schematic made it much simpler to keep the wiring organized while building the PCB. I'm quite happy with the way the blueprint is developing so far.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b74355579b25efe27b8cf385b1659c5bd3f7301b/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--1aad411106f53c8bc42e8c3b73edddfad89b421f/image.png)
+
   
 
 ## 10/26/2025 11:32 AM - made the receiver board  
