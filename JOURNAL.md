@@ -82,9 +82,14 @@ Worked hard on the schematic as well; double-check all connections, label every
 
 ## 10/26/2025 11:34 AM - designing the fc pcb  
 
-designing the FC PCB was kinda the most intense part. this thing connects everything ESCs, receiver, gyro, USB, power , so routing got hectic fast. i started with the MPU and MCU, placed them dead center to keep the traces equal.
+The flight controller (FC) PCB design was, to be honest, the most difficult part of the build so far. Because this board connects everything ESCs, receiver, gyro, USB, and power the routing soon became complex. I started by placing the MPU and MCU dead center to preserve balanced trace lengths and unobstructed signal paths.
+
+Before beginning layout, I spent a fair amount of time working on the schematic, making sure that all of the connections, pin mapping, and component labels were perfect. When the schematic was clean and organized, 
 
 ![fc pcb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--749d472d764ba0dd80634fa280a9a9eecc8845c3/fc%20pcb.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--229399e0bf6b4cebf624bba03140d2081e01cab1/image.png)
+
   
 
 ## 10/26/2025 11:48 AM - controller case design  
