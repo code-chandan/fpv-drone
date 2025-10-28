@@ -81,3 +81,11 @@ designing the FC PCB was kinda the most intense part. this thing connects everyt
 The design of the controller case turned out to be much more challenging than anticipated.  Without becoming a brick, this section needed to balance internal space, ergonomics, and clean aesthetics.  I began by setting up the joysticks because everything else is centered around them.  The top shell was then sculpted to preserve the comfortable angles and organic grip.  Primarily functional, the lower part offered enough depth for PCB mounts, wiring, and connectors.  To align the mounting holes and make sure the top and bottom closed flush, multiple test fits were required.  I ended up chamfering the edges a little to give it that crisp, machined feel.![controller case](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--dadbf3c551375d4c4b08e963ed6335f4471d1795/controller%20case.png)
   
 
+## 10/28/2025 - updated the cart prize of jlcpcb cart  
+
+I accidentally submitted the JLCPCB cart with a PCB thickness of 2mm instead of the required 1.6mm. Even though I hadn't noticed it at first, I was lucky to find it before everything was finalised. It should continue to be lighter and more mounting-standard now that I've switched back to 1.6mm.
+
+I have also added pictures of the schematic, included two screenshots of the JLCPCB cart, and improved the detail of my journal entries for appropriate documentation. I feel more organised now that I have the build logs.![Screenshot 2025-10-28 092413](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--82b4a199774b66dac705d66e8da37728a4390448/Screenshot%202025-10-28%20092413.png)
+
+  
+
