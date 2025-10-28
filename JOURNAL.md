@@ -66,7 +66,12 @@ this is what I use to control the drone. it sends signals to the receiver, like 
 
 ## 10/26/2025 11:32 AM - made the receiver board  
 
-the receiver board was super tiny, so i had to be careful with the layout. placed the antenna module first, then worked my way around it. i routed the power lines thick and clean, then squeezed the signal traces into whatever space was left. kept everything low-noise and added filtering caps close to the power input and near the data lines.![receiver pcb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5955f25ed93aa0a03996b932b42ddd0153462b8f/receiver%20pcb.png)
+The FPV drone's receiver board was ridiculously tiny, so I had to be very careful with the layout. I built everything else around the antenna module after I had it installed. It was like solving a puzzle with traces. kept the power lines neat and thick while carefully packing the signal traces into the remaining areas. Filtering capacitors were placed close to the data and power input lines to cut down on noise.
+
+Worked hard on the schematic as well; double-check all connections, label everything clearly, and ensure that the layout exactly matches the schematic. The board is one of the cleanest I've made so far, despite its small size.![receiver pcb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5955f25ed93aa0a03996b932b42ddd0153462b8f/receiver%20pcb.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--c89a78b2048a3ab3843b0aa24425ee3c1f512926/image.png)
+
   
 
 ## 10/26/2025 11:34 AM - designing the fc pcb  
